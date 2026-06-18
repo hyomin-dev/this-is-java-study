@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="CheckStyle-IDEA-Module" serialisationVersion="2">
+    <option name="activeLocationsIds" />
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch02/sec01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch20/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch20/mysql" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch19/sec06" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch19/sec07" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/ch20" />
+    </content>
+    <content url="file://$MODULE_DIR$/ch02/sec01" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="mysql-connector-j-8.3.0 (2)" level="project" />
+    <orderEntry type="library" name="json-20250107" level="project" />
+    <orderEntry type="library" name="lombok" level="project" />
+  </component>
+</module>
